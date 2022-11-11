@@ -1,1 +1,1 @@
-# cs5001
+This is a repo to practice python.
